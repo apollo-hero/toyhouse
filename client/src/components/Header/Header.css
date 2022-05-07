@@ -1,0 +1,32 @@
+
+
+.header-bar{
+    background-color: #87ceeb;
+    padding: 15px;  
+    position: sticky;
+    top: 0; 
+}
+.logo1{
+    color: white;
+}
+.logo2{
+    color: yellow;
+}
+h2{
+    font-size: 45px;
+    
+}
+
+a{
+    font-size: 25px;
+}
+
+.login{
+    font-size: 25px;
+    color: #87ceeb;
+    background-color: yellow;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-shadow: 1px 2px #080808;
+    
+}

@@ -1,0 +1,31 @@
+.footer{
+    background-color: #a3cbe8;
+    padding: 30px;
+    bottom: 0;
+}
+.footer-text{
+    color: yellow;
+}
+.footer-part{
+    display: flex;
+    justify-content: center;
+    
+}
+.menu{
+    margin-left: 20px;
+}
+.address{
+    margin-left: 20px;
+}
+li a{
+    font-size: 17px;
+}
+
+/* responsive Toys List Max Width: 900*/
+@media screen and (max-width: 900px) {
+
+    .footer-part {
+        display:block;
+        justify-content: center;
+    }
+}
