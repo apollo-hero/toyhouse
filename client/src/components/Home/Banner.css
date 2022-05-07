@@ -1,0 +1,25 @@
+.banner-title{
+    background-color: #d0d3f5;
+    font-size: 60px;
+    text-align: center;
+    padding: 20px;
+    color: #424f93;
+  
+}
+.banner-title span{
+    color: yellow;
+    text-shadow: 4px 4px 4px #080808;
+}
+.banner-images img{
+    width: 100%;
+
+}
+
+.banner-img-1:hover{
+    transform: rotate(30deg);
+    transition: width 2s, height 2s, transform 2s;
+}
+.banner-img-2:hover{
+    transform: rotate(30deg);
+    transition: width 2s, height 2s, transform 2s;
+}
