@@ -1,0 +1,27 @@
+.toy-image{
+    width: 300px;
+    border-radius: 30px;
+    
+}
+.toy{
+    border: 20px solid skyblue;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+.toy:hover{
+    -ms-transform: scale(1.1); /* IE 9 */
+    -webkit-transform: scale(1.1); /* Safari 3-8 */
+    transform: scale(1.1); 
+    background-color: rgb(228, 235, 135);
+    transition: width 2s, height 2s, transform 2s;
+    
+}
+.update-button{
+    background-color: yellow;
+    padding-left: 35px;
+    padding-right: 35px;
+    color: #87ceeb;
+    font-size: 30px;
+    border-radius: 15px;
+}
