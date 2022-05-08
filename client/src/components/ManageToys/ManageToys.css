@@ -1,0 +1,16 @@
+img{
+    width: 70px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    margin-right: 10px;
+    
+}
+.toy-items{
+ border: 5px dotted red;
+ margin-bottom: 15px;
+}
+
+.toy-items:hover{
+    transform: scale(1.1);
+    background-color: yellow;
+}
